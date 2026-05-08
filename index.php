@@ -7,7 +7,7 @@
                     <h1 class="home-page1">Dottor Diego Costa</h1>
                 </li>
                 <li>
-                    <h1 class="home-page2">Psicologo</h1>
+                    <h1 class="home-page2">Psicologo - Psicoterapeuta</h1>
                 </li>
             </ul>
         </div>
